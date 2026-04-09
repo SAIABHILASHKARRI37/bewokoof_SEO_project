@@ -1,5 +1,8 @@
 # Bewakoof SEO Performance Dashboard using Google Analytics & Looker Studio
 
+## 📊 Dashboard Preview
+![Bewakoof SEO Dashboard](https://raw.githubusercontent.com/SAIABHILASHKARRI37/bewokoof_SEO_project/main/Screenshot%202026-04-09%20224509.png)
+
 ## Project Overview
 This project is a demo SEO analytics dashboard created for Bewakoof using Looker Studio and Google Analytics-style ecommerce data.
 
